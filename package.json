@@ -1,0 +1,22 @@
+{
+  "name": "manublog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "front": "npm run dev --prefix front",
+    "strapi": "npm run develop --prefix back",
+    "dev": "concurrently \"npm run strapi\" \"npm run front\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.1.0",
+    "@fortawesome/free-regular-svg-icons": "^6.1.0",
+    "@fortawesome/free-solid-svg-icons": "^6.1.0",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "concurrently": "^7.0.0",
+    "vue-social-sharing": "^3.0.9"
+  }
+}
