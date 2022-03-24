@@ -59,7 +59,6 @@ figure{
     width: 100%;
     padding: 20px;
     margin-left: 0px;
-    border: 1px solid;
 }
  }
 

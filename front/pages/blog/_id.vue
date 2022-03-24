@@ -21,7 +21,7 @@
       :twitterUser="sharing.twitterUser">
       <font-awesome-icon :icon="network.icon" class="text-white fa-fw fa-lg w-25" />
     </ShareNetwork>
-    <article class="article m-5">
+    <article class="article m-2">
         {{getArticleDetail.contenu}}
     </article>
   </div>
@@ -137,4 +137,11 @@ export default {
     font-size: 1.6rem;
   }
 
+  @media (max-width: 1024px){
+    .titreDetail{
+      font-size: 1.5rem;
+      line-height: 1.1;
+      text-align: justify;
+    }
+  }
 </style>

@@ -8,7 +8,7 @@
                     <div class="card-body">
                         <nuxt-link :to="`/blog/${apArticles.slug}`"><h5 class="card-title">{{apArticles.titre}}</h5></nuxt-link>
                         <p class="card-text">{{apArticles.contenu.substr(0, 100)}}...</p>
-                        <p class="card-text"><small class="text-muted">Dernière modification {{apArticles.updatedAt}}</small></p>
+                        <p class="card-text"><small class="text-muted font-weight-bold">Dernière modification {{apArticles.updatedAt}}</small></p>
                     </div>
                 </div>
             </div>

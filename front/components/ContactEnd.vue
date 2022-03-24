@@ -24,7 +24,7 @@
 
     <!-- Form submit button -->
     <div class="d-grid">
-      <button class="btn btn-primary btn-lg" type="submit">Submit</button>
+      <button class="btn btn-primary" type="submit">Envoyer</button>
     </div>
 
   </form>

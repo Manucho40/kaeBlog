@@ -28,6 +28,7 @@ div{
 figure{
     border: 1px solid;
     display: inline-block;
+    margin: 10px;
     
 }
  figure .imgAcc{

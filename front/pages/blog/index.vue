@@ -3,7 +3,7 @@
     <section class="bg-light pt-5 pb-5 shadow-sm container">
     <div class="container">
     <div class="row pt-5 border-bottom mb-4">
-    
+        <h1 class="align-center">Articles</h1>
     </div>
     <div class="row">
       <!--ADD CLASSES HERE d-flex align-items-stretch-->

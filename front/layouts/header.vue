@@ -1,7 +1,7 @@
 <template>
   <div>
     <header>
-        
+        <nav>
         <a  @click="active = !active" class="burger-menu d-block d-sm-none" v-if="!active"><svg style="width:45px;height:50px" viewBox="0 0 24 24">
     <path fill="currentColor" d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" />
 </svg></a>
@@ -25,7 +25,7 @@
                 <nuxt-link to="/"><li>Accueil</li></nuxt-link> 
                 <nuxt-link to="/apropos"><li>A propos</li></nuxt-link> 
                 <nuxt-link to="/blog"><li>Mon blog</li></nuxt-link> 
-                <nuxt-link to="/contact"><li>Contact</li></nuxt-link> 
+                <nuxt-link to="/projets"><li>Projets</li></nuxt-link> 
                  <div class="reso">
                     <div><a href="https://facebook.com/emmanuel.kouassi.1004837" target="_blank"><svg style="width:30px;height:30px" viewBox="0 0 24 24">
     <path fill="currentColor" d="M12 2.04C6.5 2.04 2 6.53 2 12.06C2 17.06 5.66 21.21 10.44 21.96V14.96H7.9V12.06H10.44V9.85C10.44 7.34 11.93 5.96 14.22 5.96C15.31 5.96 16.45 6.15 16.45 6.15V8.62H15.19C13.95 8.62 13.56 9.39 13.56 10.18V12.06H16.34L15.89 14.96H13.56V21.96A10 10 0 0 0 22 12.06C22 6.53 17.5 2.04 12 2.04Z" />
