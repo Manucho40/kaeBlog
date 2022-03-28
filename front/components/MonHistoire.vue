@@ -3,10 +3,15 @@
     
       <div class="text-down-fig">
          <h3>Salut ! Ravi de te rencontrer.</h3>
-         <article>
-             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio debitis fugiat illum provident, ipsa repudiandae omnis aspernatur iusto molestiae praesentium nihil, inventore mollitia veniam, qui tenetur quae facilis perferendis voluptate.
-             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo sequi aspernatur ab deleniti eum voluptates temporibus tempora molestiae natus aliquam consequatur quia facilis earum nesciunt, fuga sunt quaerat eius quam. <br> <br>
-             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta eveniet voluptatem ratione harum qui, architecto alias animi doloribus nostrum, ipsum dolore hic eum laboriosam odio nesciunt exercitationem. Quia, molestiae iure?
+         <article class="presentation">
+             Je suis KOUASSI Ange Emmanuel (d'où le nom de domaine du site vous l'aurez deviné &#128513;) développeur web et vous êtes dans mon petit coin du web. <br>
+             Le but de ce forum c'est de partager les "quelques" connaissances que j'ai acquises sur le monde passionnant qu'est le web à travers mes lectures, les formations et les discussions que j'ai pu avoir avec d'autres développeurs.
+             En effet, le partage des connaissances est l'une des choses qui m'a fait aimé le code. J'ai eu la chance de rencontré des developpeurs (hey Kael 	&#129321;) qui m'ont beaucoup apportés dans mon évolution
+              et comme un juste retour des choses, je me dois de partager. <br>
+              Qu'est ce que vous verrez concretement?
+            Des articles sur des technos que je découvre, des conseils pour progresser dans le dev, mes projets personnels sont les choses que je partagerais avec vous sur ce blog. <br>
+            ALORS ALLONS Y. <br>
+            Une dédicace spéciale à celui qui m'a donné goût au WEB Mr Edmond.
          </article>
       </div>
   </div>
@@ -19,6 +24,8 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&family=Permanent+Marker&family=Teko:wght@300&display=swap');  
+
 /* div{
     text-align: center;
 } */
@@ -27,6 +34,9 @@ figure{
     /* display: inline-block; */
     margin-bottom: 0px;
     
+}
+.presentation{
+
 }
  
 .text-down-fig{
@@ -43,8 +53,9 @@ figure{
 }
 
 .text-down-fig article{
-    line-height: 1.6em;
-    font-size: 17px;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
+    font-size: 1.6rem;
 }
 
  
