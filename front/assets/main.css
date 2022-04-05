@@ -7,3 +7,9 @@
     opacity: 0; 
     transform: scale(0);
 }
+a:hover{
+  text-decoration: none;
+}
+body{
+  text-align: center;
+}

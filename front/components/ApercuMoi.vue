@@ -4,7 +4,7 @@
       <div class="moi">
           <img src="~/assets/img/manu.png" alt="">
           <div class="blockp">
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br>Sunt temporibus aliquid explicabo rem, <br> tempora autem, tenetur distinctio  <br> enim expedita nobis. <br> Accusamus, ipsa dolor eum maiores deserunt ex explicabo ipsam!</p>
+            <p>Je suis KOUASSI Ange Emmanuel <br>(d'où le nom de domaine du site vous l'aurez deviné &#128513;)<br>développeur web et vous êtes dans mon petit coin du web. <br></p>
             <nuxt-link to="/apropos">Lire la suite ></nuxt-link>
           </div>
       </div>

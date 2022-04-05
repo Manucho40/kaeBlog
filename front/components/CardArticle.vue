@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <img
-      :src="`http://localhost:1337${this.article.image[0].url}`"
+      :src="`http://api.kae-dev.com/${this.article.image[0].url}`"
       class="card-img-top"
       alt="Card Image"
     />

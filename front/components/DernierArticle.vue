@@ -2,7 +2,7 @@
   <div>
       <!-- <p class="ban">Dernier Article</p> -->
       <figure>
-          <img class="imgAcc" :src="`http://localhost:1337${dernierArti.image[0].url}`" alt="">
+          <img class="imgAcc" :src="`http://api.kae-dev.com/${dernierArti.image[0].url}`" alt="">
           <div>
           <p>Dernière modification {{dernierArti.updatedAt}}</p>
           <nuxt-link :to="`/blog/${dernierArti.slug}`">

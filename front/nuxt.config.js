@@ -12,8 +12,9 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/manu.png' }
     ]
+    
   },
   env: {
     baseUrl: process.env.BASE_URL || 'http://localhost:3000'
@@ -32,29 +33,13 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
-    '@nuxtjs/fontawesome',
   ],
-  fontawesome: {
-    icons: {
-      regular: ["faEnvelope"],
-      brands: [
-        "faFacebook",
-        "faFacebookF",
-        "faFacebookMessenger",
-        "faInstagram",
-        "faTwitter",
-        "faWhatsapp",
-        "faPinterest",
-        "faTelegramPlane"
-      ]
-    }
-  },
+ 
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/bootstrap
     'bootstrap-vue/nuxt',
-    '@nuxtjs/strapi',
     '@nuxtjs/axios'
   ],
   strapi: {

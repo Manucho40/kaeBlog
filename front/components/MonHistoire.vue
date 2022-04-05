@@ -6,12 +6,12 @@
          <article class="presentation">
              Je suis KOUASSI Ange Emmanuel (d'où le nom de domaine du site vous l'aurez deviné &#128513;) développeur web et vous êtes dans mon petit coin du web. <br>
              Le but de ce forum c'est de partager les "quelques" connaissances que j'ai acquises sur le monde passionnant qu'est le web à travers mes lectures, les formations et les discussions que j'ai pu avoir avec d'autres développeurs.
-             En effet, le partage des connaissances est l'une des choses qui m'a fait aimé le code. J'ai eu la chance de rencontré des developpeurs (hey Kael 	&#129321;) qui m'ont beaucoup apportés dans mon évolution
+             En effet, le partage des connaissances est l'une des choses qui m'a fait aimé le code. J'ai eu la chance de rencontrer des developpeurs (hey Kael 	&#129321;) qui m'ont beaucoup apportés dans mon évolution
               et comme un juste retour des choses, je me dois de partager. <br>
               Qu'est ce que vous verrez concretement?
             Des articles sur des technos que je découvre, des conseils pour progresser dans le dev, mes projets personnels sont les choses que je partagerais avec vous sur ce blog. <br>
-            ALORS ALLONS Y. <br>
-            Une dédicace spéciale à celui qui m'a donné goût au WEB Mr Edmond.
+            ALORS ALLONS Y. &#128073;a <br>
+            Une dédicace spéciale à celui qui m'a donné goût au WEB Mr Edmond &#128591;.
          </article>
       </div>
   </div>
