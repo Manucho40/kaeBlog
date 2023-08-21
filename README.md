@@ -10,4 +10,4 @@ Prendre en main le state management dans nuxt (Vuex)
 - CSS (principalement)
 
 ## LIEN
-[kae-dev.com](https://www.kae-dev.com/)https://www.kae-dev.com/
+https://www.kae-dev.com/
